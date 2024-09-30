@@ -4,7 +4,7 @@
 
 #LITA_DATA_ANALYSIS
 
-1, NOTE
+1. NOTE
 
 ---- NOTE
 -  NOTE
